@@ -1,11 +1,15 @@
 # Foundation Of Algorithms
 ```
-## Algorithms
-Stable Matching
-Interval Scheduling
-Interval Partitioning
-Minimizing Lateness
-Optimal Offline Caching
-Kruskals Algorithm
-Dijkstra's Algorithms for directed and undirected graphs
-```
+📦Stable Matching
+ ┣ 📜StableMatching.py
+ ┗ 📜StableMatchingWithThreePairs.py
+ 
+📦Greedy Algorithms
+ ┣ 📜DijkstraAlgorithmDirected.py
+ ┣ 📜DijkstraAlgorithmUndirected.py
+ ┣ 📜IntervalPartitioning.py
+ ┣ 📜IntervalScheduling.py
+ ┣ 📜KruskalsAlgorithm.py
+ ┣ 📜MinimizingLateness.py
+ ┗ 📜OptimalOfflineCaching.py
+ ```
